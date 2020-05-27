@@ -1,0 +1,9 @@
+dice = 0
+while dice != 6
+	dice = rand (1..6)
+	puts dice
+end
+
+for i in 1..10 do
+	puts i
+end
